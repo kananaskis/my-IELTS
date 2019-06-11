@@ -3,34 +3,21 @@
 100 套真题中提炼而出的 100 百个经典句子，包涵了 7000 个雅思词汇。
 
 1. Typical of the grassland dwellers of the continent is the American antelope, or
-pronghorn.
-
-1.美洲羚羊，或称叉角羚，是该大陆典型的草原动物。
+pronghorn.美洲羚羊，或称叉角羚，是该大陆典型的草原动物。
 
 2. Of the millions who saw Haley’s comet in 1986, how many people will live long
-enough to see it return in the twenty-first century.
+  enough to see it return in the twenty-first century.1986 年看见哈雷慧星的千百万人当中，有多少人能够长寿到足以目睹它在二十一世纪的回归呢?
 
-2. 1986 年看见哈雷慧星的千百万人当中，有多少人能够长寿到足以目睹它在二十一世纪
-的回归呢?
+3. Anthropologists have discovered that fear, happiness, sadness, and surprise are **universally** reflected in facial expressions.人类学家们已经发现，恐惧，快乐，悲伤和惊奇都会行之于色，这在全人类是共通的。
+4. Because of its irritating effect on humans, the use of phenol as a general antiseptic has been largely discontinued.由于苯酚对人体带有刺激性作用，它基本上已不再被当作常用的防腐剂了。
 
-3. Anthropologists have discovered that fear, happiness, sadness, and surprise
-are universally reflected in facial expressions.
-3.人类学家们已经发现，恐惧，快乐，悲伤和惊奇都会行之于色，这在全人类是共通的。
-4. Because of its irritating effect on humans, the use of phenol as a general
-antiseptic has been largely discontinued.
-4.由于苯酚对人体带有刺激性作用，它基本上已不再被当作常用的防腐剂了。
+5. In group to remain in existence, a profit-making organization must, in the long run, produce something consumers consider useful or desirable.任何盈利组织若要生存，最终都必须生产出消费者可用或需要的产品。
 
-5. In group to remain in existence, a profit-making organization must, in the
-long run, produce something consumers consider useful or desirable.
-5.任何盈利组织若要生存，最终都必须生产出消费者可用或需要的产品。
-
-6. The greater the population there is in a locality; the greater the need there is
-for water, transportation, and disposal of refuse.
-6.一个地方的人口越多，其对水，交通和垃圾处理的需求就会越大。
+6. The greater the population there is in a locality; the greater the need there is for water, transportation, and disposal of refuse.一个地方的人口越多，其对水，交通和垃圾处理的需求就会越大。
 
 7. It is more difficult to write simply, directly, and effectively than to employ
-flowery but vague expressions that only obscure one’s meaning.
-7.简明，直接，有力的写作难于花哨，含混而意义模糊的表达。
+  flowery but vague expressions that only obscure one’s meaning.
+  7.简明，直接，有力的写作难于花哨，含混而意义模糊的表达。
 
 1 / 16 
 
