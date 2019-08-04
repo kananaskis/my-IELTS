@@ -1,0 +1,68 @@
+- aggregation n. 聚集
+	- segregaton n. 隔离
+- accompany 陪伴，伴随
+	- accompaniment
+	- accomplish 完成
+	- accomplishment
+	- accomplishable
+- assortment n. 各种各样
+	- various 种类多并且差异大
+	- kinds of
+	- varied
+	- all shorts of
+- convene vt. 召集，召唤 vi. 聚集，集合，召开
+	- convention n. 大会，惯例
+	- convince v. 说服，使...相信
+- cover 覆盖
+	- coat-ed
+- duration n. 持续时间，期间
+	- during
+	- durable adj. 	持久的，耐用的
+- 	emulate v. 效仿，模仿，仿真
+	- simulate v. 模仿，冒充，假装
+- expectation n. 期待，期望，预期
+	- anticipation n. 预期，期望，预计，预料
+- fabric n. 织物，结构
+	- fibre = fiber 纤维
+	- fabricate vt. 制造，编造，装配
+- feral adj. 野生的
+	- wilding 
+	- fetal adj. 胎儿的
+- festal
+	- festivity n. 庆祝活动，欢庆的事，盛事
+- fruitarian n. 果素者
+	- vegetarian n. 素食者
+- majority
+	- minority n. 少数，少数民族
+- medic 
+	- drug
+	- medicine
+	- medication n. 药物
+	- remedy
+	- cure
+	- chemical
+- nourishment n. 营养，营养品
+	- nourish v. 抚养
+	- nutrition n. 营养
+	- nutrious adj. 营养丰富的
+- paralysis n. 麻痹，瘫痪，丧失能力
+	- disbale
+- perceive v. 认知到，觉察到
+	- ceive-词根 取得
+	- deceive 欺骗
+	- receive
+	- conceive 构思
+- social
+	- society
+	- sociable
+	- unsociable
+- spwan n. 卵 v.产卵，产生=导致，引起，引发，创造
+	- sperm
+- trail v. 跟踪，（被）拖，磨蹭 n. 小径，踪迹
+	-	trial 审判
+- virtue n. 美德，优点
+	- public virtue
+	- virtual
+- volatile adj. 变化无常的，不稳定的，易变的，急剧波动的
+	- variable 可变的，易变的
+	- velocity n. 速度，速率；高速
