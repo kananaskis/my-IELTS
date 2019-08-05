@@ -10,18 +10,58 @@
 	- kinds of
 	- varied
 	- all shorts of
+- aspire v. 渴望，立志成为
+	- aspirer n. n. 怀抱大志者；热望者
+	- aspiration n. 抱负；热望；志向；渴望
+	- aspirational adj.  有志向的
+	- aspiring adj. 渴望从事…的; 有志向的
+	- desire n. 渴望；愿望；欲望; v. 渴望；向往；要求
+	- spirit n. 精神；心灵；幽灵；精灵； v. 使精神振作；偷偷带走
+	- inspire vt. 鼓舞；激发；产生；赋予...灵感
+	- aspirin n. 阿司匹林
+- bare adj. 赤裸的
+	- barely adv. 仅仅，几乎不，几乎没有，刚刚
+	- hardly
+	- little
+	- rarely
+	- scarcely
+	- seldmon
+- democracy n. 民主，民主国家，民主政体，民主制度
+	- democrat 民主党人，民主主义者
+	- democratic 民主的，民主制度的
+	- democratism 民主主意
+	- democratise = democratize v. 使民主化
+	- 
+- dwelling n. 住处；住宅
+	- dwell vi. 居住；存在；冥想；详细阐述；唠叨
+	- dweller n. 居民；居住者
+	- abode n. 住处；住所；逗留；<古>等待
+- caldera n.火山口
+	-
 - convene vt. 召集，召唤 vi. 聚集，集合，召开
-	- convention n. 大会，惯例
+	- convention n. 大会，惯例，习俗
 	- convince v. 说服，使...相信
+- composition n. 成分，构成；组合方式；作曲；作文；小论文
+	- compose v. 组成，写作作曲，使镇静
+	- decompose
+	- decomposition n. 分解，腐朽
 - cover 覆盖
 	- coat-ed
+- crustal adj. 外壳的
+	- curst n. 壳，表面；厚颜无耻； v. 用外皮覆盖，结成硬皮，结痂，形成硬壳
+	- crusty adj. 有脆皮的；脾气暴躁的
+	- crystal 水晶
 - duration n. 持续时间，期间
 	- during
 	- durable adj. 	持久的，耐用的
 - 	emulate v. 效仿，模仿，仿真
 	- simulate v. 模仿，冒充，假装
+- electricity n. 电，电能；强烈的感觉，激动
+	- electric adj. 电动的，用电的；通电的，令人激动的
+	- electrical adj. 电的，用电的，发电的
 - expectation n. 期待，期望，预期
 	- anticipation n. 预期，期望，预计，预料
+	- participation n. 参与，参加
 - fabric n. 织物，结构
 	- fibre = fiber 纤维
 	- fabricate vt. 制造，编造，装配
@@ -30,10 +70,57 @@
 	- fetal adj. 胎儿的
 - festal
 	- festivity n. 庆祝活动，欢庆的事，盛事
+- form n. 形式，表格，形状，样子，种类，类型； v. 组成，建立，组织，产生，成立
+	- formation n. 形成，编队，组成，队形
+	- inform v. 告知，通知
+	- informed adj. 有学问的，有见识的
+	- information n. 信息，资料，情报，资讯
+	- deform v. 改变外形，损毁形状，使变形
+	- deformed adj. 畸变的，变形的
+	- deformation n. 损形，畸形；破相，变丑
+	- transform v. 转换，变形；改善，使改头换面
+	- transformation n. 转变，民主改革
+	- conform v. 顺从，遵从，随大流，一致
+	- conformation n. 形态，构造，结构，身体结构
+	- perform
 - fruitarian n. 果素者
 	- vegetarian n. 素食者
+- fungus n. 真菌，霉菌
+	- mushroom	蘑菇
+	- bacterium n. 细菌
+- individual adj. 单独的，独有的；个别的；一个人的；独特的，与众不同的； n. 个人，个体
+	- individualism n. 个人主义，个性，独特的气质，个人至上
+	- collectivism n. 集体主义，集体所有制
+- humid adj. 温暖潮湿的，湿热的
+	- humidity n. 空气湿度；湿气；湿热
+	- moist adj. 微湿的，湿润的
+	- humiliate v. 羞辱，使丧失尊严
+	- humiliation n. 屈辱，丢脸
+- immigrant n.	移民，侨民
+	- emigrant
+- incandescent adj. 光亮的；炽热的；白热化的；暴怒的
+	- candent adj. 白热的；灼热的
+- irritation n. 刺激；烦恼；刺激物
+	- stimulation n. 刺激；激励；鼓舞
+	- paratripsis 刺激
+- literacy n. 读写能力，识字
+	- illiteracy n. 文盲，失学，未受教育，语言错误
+	- literal adj. 	字面上的，文字的，逐字的
+	- literally adv. 按字面，字面上；真正的，确实的；简直
 - majority
 	- minority n. 少数，少数民族
+- manual adj. 手工的，体力的； n. 使用手册
+	- manufacture v. 制造，加工； n. 制造，生产；制造业
+	- manufacturer 制造商
+	- manufaceturing n. 制造业； adj. 从事工业的
+	- mental adj. 精神的，心理的，脑力的
+- mature adj. 明白事理的；成熟的；发育完全的； v. 成熟，长成；有判断力
+	- ripen	(使)成熟
+	- mellow	成熟的
+	- adult 成年人
+	- nature 自然
+- maxim n. 格言，座右铭
+	- motto
 - medic 
 	- drug
 	- medicine
@@ -45,24 +132,128 @@
 	- nourish v. 抚养
 	- nutrition n. 营养
 	- nutrious adj. 营养丰富的
+- oblivion n. 遗忘；忘却
+	- be buried in oblivion 湮没无闻
+	- oblivious adj. 没注意到；健忘的
+	- obligate adj. 有义务的，有必要的，强制的
+	- oblige v. 帮忙
+	- oblique V. 倾斜
+	- obliterate v. 擦去，土去，盖销
+- organ n. 器官；风琴，机关
+	- organism n. 生物体，有机体
+	- organic adj. 有机的，器官的
+	- organize v. 组织，安排，管理
+	- organized adj. 有组织的，系统的，有条理的
+	- organization n. 组织，机构，团体；安排
+	- orgin
+	- original
+- pasty n. 馅饼； adj. 浆糊的，粘性的；脸色苍白的
+	- paste n. 面团；浆糊；糊状物；糊; vt. 裱糊；粘贴
+	- pastry n. 面粉糕饼
+	- pastelike adj. 浆糊似的；苍白的
+	- pastyfaced 脸上苍白的
+	- pie n. 馅饼
+	- pasta n. 意大利面
+	- pale adj. 苍白的; v. 使苍白
 - paralysis n. 麻痹，瘫痪，丧失能力
 	- disbale
-- perceive v. 认知到，觉察到
+- perceive v. 认知，察觉 = sense 意识到
 	- ceive-词根 取得
 	- deceive 欺骗
 	- receive
 	- conceive 构思
+- plateau n. 高原；平稳；稳定状态; vi. 到达平稳阶段
+	- reach a plateau 达到平衡
+	- platean n. 高地
+	- plate 盘
+	- plain 平原
+- pneumonia n. 肺炎
+	- lung n. 肺
+	- lunge 猛冲，猛扑
+	- plunge 纵身投入，一头扎进；骤降，猛跌
+- psycho
+	- psychical
+	- psychology
+	- psychologist n. 心理学家，心理学研究者
+- require v. 需要；有赖于；要求；规定
+	- required adj.
+	- requirement n. 需要；有赖于；要求；规定 = requiremen
+	- requite v. 报答；回报；报复
+	- requital n. 报酬；还礼；报仇
+	- requitable adj. 有回报的；可报复的
+	- requisite n. 必需品； adj. 必要的；需要的；必不可少的 = necessary
+	- requisition v. 征用
+	- request n. （礼貌、正式的）要求，请求
+	- question
+	- requiem n. 安魂曲
+- sense n. 知觉，感觉，感官能力；含义，意义；理智，判断力； v. 意思到，感觉到，觉察到，检测出
+	- sensor n. 传感器
+	- sensible adj. 明智的，合理的，切合实际的；朴素而实用的
+	- sensitive 敏感的，灵敏的，善解人意的
+	- sentient adj. 有感觉能力的，有知觉能力的； n. 意识，心，有知觉的人。
+	- sensitize v. 使敏感，使意识到，使对过敏
+	- sensibility n. 敏感性，感情
+	- conscious adj. 注意到的，意思到的；清醒的，有知觉的
+	- unconscious adj. 无知觉的，昏迷的，不省人事的，无意识的； n. 无意识
 - social
 	- society
 	- sociable
 	- unsociable
+	- socialism n. 社会主义，社会主义社会
+	- capitalism n. 资本主意
+	- feudalism n. 封建主义
+	- communism n. 共产主义，共产主义制度
+	- republicanism n. 共和主意
+- spectacular adj. 壮观的，壮丽的，令人惊叹的； n. 壮观的场面，精彩的表演
+	- spectacle n. 景象；场面；奇观；壮观；公开展示；表相，假相;（复）眼镜
+	- spectator n. 观众
+	- spec
+	- species n. 种类，物种
+	- special 特别的
+	- specify 指定，详细说明
+	- specialist 专家
 - spwan n. 卵 v.产卵，产生=导致，引起，引发，创造
 	- sperm
+- structure n. 结构，构造，体系，结构体； v. 使形成体系，系统安排，精心组织
+	- structural adj. 结构上的
+	- restructure v. 重建，调整结构，改组
+	- construct
+	- construction n. 建设，建立；结构，构造
+- super 
+	- supervise 监督，管理，指导
+	- superior 	n. 上级，上司，级别更高的人； adj. 更好/强/高级的，上级的；有优越感的，至高无上的，高傲的
+	- supervisor n.
+	- supervision 监督，管理
+	- superposition 叠加
+	- superstitous adj. 迷信的，有迷信观念的
+- temper n. 脾气，性情；情绪，心情； v. 锻炼，磨练；使缓和，使温和，使回火
+	- temperature n. 温度，气温，体温
+	- temperate adj. 气候温和的，温带的，心平气和的，自我克制的
+	- temperament n. 性情，喜怒无常，易冲动，暴躁
+	- temperamental adj. 喜怒无常的，容易激动的，反复无常的，气质的
 - trail v. 跟踪，（被）拖，磨蹭 n. 小径，踪迹
 	-	trial 审判
+- transcribe v. 抄写；用音标标出；改编(乐曲)；转录
+	- transcript n. 抄本；副本；誊本；成绩单；笔录
+	- trans
+- triumphy n. 巨大成功，重大成就，伟大胜利，喜悦； v. 战胜，成功，打败（triumph over）
+	- triumphant 大获全胜的，凯旋归来的，巨大成功的；欢欣鼓舞的；得意洋洋的
+	- triumphal arch 凯旋门
+- upset adj. 沮丧，难过，不高兴，失望； v. 使烦恼，打乱，打翻，搅乱； n. 苦恼，失望，烦闷，混乱
+- vaporize = vaporise v. 使蒸发	
+	- vapor 蒸汽；汽化
+	- evaporate v. 蒸发；失去水分；消失
+	- distill v. 蒸馏；滴下；吸取；提炼
+	- purify (使）净化
+	- condense	浓缩
 - virtue n. 美德，优点
 	- public virtue
-	- virtual
+	- virtual虚拟的，模拟的；实际上的，实质上的；几乎...的，很接近的
+	- actual adj. 真实的，实际的，真正的
 - volatile adj. 变化无常的，不稳定的，易变的，急剧波动的
 	- variable 可变的，易变的
 	- velocity n. 速度，速率；高速
+- wholesome adj. 有益健康的；有道德的；有良好道德影响的
+	- healthful
+	- beneficial
+	- utile
