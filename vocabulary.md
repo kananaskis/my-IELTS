@@ -1,3 +1,58 @@
+- freshman n. (大学)一年级新生;(中学)九年级学生;大学一年级新生
+	- sops = sophomore n. (大学)二年级学生;(高中)二年级学生
+	- junior n. （四年制中学或大学中）三年级生的，三年级的 
+	- senior n. （高中或大学）毕业年级的 
+- fairy-tale adj. 童话式的，童话的
+	- fairy n. 小仙女，小精灵
+- turret n. 塔楼，角楼
+- wicked adj. 邪恶的
+- witches n. witch复数形式，女巫，丑老太婆； v. 施展巫术
+- gallant adj. 英勇的
+- capacity n. 容量；领悟能力；职责
+- repercussion n. （间接的）影响；反响，回响
+- variety n. 品种，种类
+- faculty n. 院系；天赋，才能
+	- facility n. 设备，设施
+- underpin v. 加强，加固，巩固
+- intellectual adj. 有才智的；理智的；脑力的
+	- intlligent adj. 聪明的，智能的
+- millennia n. 千年 millennium的复数形式
+- extol/extoll/extolled v. 赞扬，称赞
+- curtail v. 限制；缩短，缩减
+- scarce adj. 缺乏的;不足的;稀少的; adv. 勉强;刚;几乎不;简直不
+	- scare v. 惊吓;使害怕;使恐惧;受惊吓;害怕;恐惧； n. 恐慌;恐惧;惊吓;惊恐
+- implication n. 可能的影响；含义；暗指；牵连
+- spontaneous adj. 自发的，心血来潮的
+	- child-initiated 儿童自发性的
+- intervene v. 介入；干扰
+- undertake v. 承担，从事，负责，承诺
+- toddler n. 刚会走路的孩子；学步的儿童
+	- toddle v. (幼儿学步时)摇摇摆摆地走，蹒跚行走;步行;去
+- diagnosis v. 诊断
+	- digest v. 消化
+- neurodevelopmental disorders
+	- autism n. 自闭症
+- stimulus n. 刺激物；促进/激励因素
+- instructional adj. 教学的，教育的
+	- instruction n. 命令，指令，操作指南
+- through/tough/thought/though/although
+- serious adj. 严重的，不好的；严肃的
+	- series n. 一系列
+	- severe adj. 恶劣的，严重的
+- debate
+	- controversy
+	- controversy : 侧重指深刻的意见分歧，多指对引起广泛兴趣或非常重要的问题的辨论。
+	- argument : 指辩论双方均以事实或理由来说服对方的辨论。
+	- conflict : 指双方坚持已见、互不妥协，怀有敌意的争论，多暗示分歧极为严重，有时用语言无法解决，只得诉诸武力。
+	- debate : 通常指经过仔细组织和计划的个人或团体之间的辩论。
+	- dispute : 普通用词，侧重指长时间，言词激烈，针锋相对的争辩。
+	- quarrel : 普通用词，既可指言词激烈的争吵，也可指温和的言词上的不和。
+	- strife : 指因不可缓和的矛盾而引起的争吵或斗殴。
+- trivial adj. 琐碎的，不重要的，微不足道的
+ 
+- 与影响有关的单词
+	- influence
+	- effect
 - aggregation n. 聚集
 	- segregaton n. 隔离
 - accompany 陪伴，伴随
@@ -37,7 +92,6 @@
 	- dweller n. 居民；居住者
 	- abode n. 住处；住所；逗留；<古>等待
 - caldera n.火山口
-	-
 - convene vt. 召集，召唤 vi. 聚集，集合，召开
 	- convention n. 大会，惯例，习俗
 	- convince v. 说服，使...相信
@@ -62,6 +116,7 @@
 - expectation n. 期待，期望，预期
 	- anticipation n. 预期，期望，预计，预料
 	- participation n. 参与，参加
+	- precipitation n. 降雨；沉淀
 - fabric n. 织物，结构
 	- fibre = fiber 纤维
 	- fabricate vt. 制造，编造，装配
@@ -158,6 +213,7 @@
 - paralysis n. 麻痹，瘫痪，丧失能力
 	- disbale
 - perceive v. 认知，察觉 = sense 意识到
+	- perception n. 感知；洞察力；悟性；看法，见解
 	- ceive-词根 取得
 	- deceive 欺骗
 	- receive
@@ -176,6 +232,8 @@
 	- psychology
 	- psychologist n. 心理学家，心理学研究者
 - require v. 需要；有赖于；要求；规定
+	- acquire v. 获得，得到
+	- inquire v. 询问，查询
 	- required adj.
 	- requirement n. 需要；有赖于；要求；规定 = requiremen
 	- requite v. 报答；回报；报复
@@ -239,7 +297,6 @@
 - triumphy n. 巨大成功，重大成就，伟大胜利，喜悦； v. 战胜，成功，打败（triumph over）
 	- triumphant 大获全胜的，凯旋归来的，巨大成功的；欢欣鼓舞的；得意洋洋的
 	- triumphal arch 凯旋门
-- upset adj. 沮丧，难过，不高兴，失望； v. 使烦恼，打乱，打翻，搅乱； n. 苦恼，失望，烦闷，混乱
 - vaporize = vaporise v. 使蒸发	
 	- vapor 蒸汽；汽化
 	- evaporate v. 蒸发；失去水分；消失
