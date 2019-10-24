@@ -1,49 +1,39 @@
 7000 雅思词汇用 100 个句子记完! 
-
 100 套真题中提炼而出的 100 百个经典句子，包涵了 7000 个雅思词汇。
 
-1. Typical of the grassland dwellers of the continent is the American antelope, or
-pronghorn.美洲羚羊，或称叉角羚，是该大陆典型的草原动物。
+1. Typical of the grassland dwellers of the continent is the American antelope, orpronghorn.美洲羚羊，或称叉角羚，是该大陆典型的草原动物。
+- grassland; meadow; lawn.
+- dweller; resident; inhabitant; occupant;
+- continent/contingent/continue
 
-2. Of the millions who saw Haley’s comet in 1986, how many people will live long
-  enough to see it return in the twenty-first century.1986 年看见哈雷慧星的千百万人当中，有多少人能够长寿到足以目睹它在二十一世纪的回归呢?
+2. Of the millions who saw Haley’s comet in 1986, how many people will live long enough to see it return in the twenty-first century.1986 年看见哈雷慧星的千百万人当中，有多少人能够长寿到足以目睹它在二十一世纪的回归呢?
+- comet/Cosmetics/Comic
 
 3. Anthropologists have discovered that fear, happiness, sadness, and surprise are **universally** reflected in facial expressions.人类学家们已经发现，恐惧，快乐，悲伤和惊奇都会行之于色，这在全人类是共通的。
+- Anthropologist/Archaeologist
+- reflect; reflex; mirror; report
+
 4. Because of its irritating effect on humans, the use of phenol as a general antiseptic has been largely discontinued.由于苯酚对人体带有刺激性作用，它基本上已不再被当作常用的防腐剂了。
+- stimulate; excite; provoke; irritate
+- antibiotic; preservative; antiseptic
 
 5. In group to remain in existence, a profit-making organization must, in the long run, produce something consumers consider useful or desirable.任何盈利组织若要生存，最终都必须生产出消费者可用或需要的产品。
 
 6. The greater the population there is in a locality; the greater the need there is for water, transportation, and disposal of refuse.一个地方的人口越多，其对水，交通和垃圾处理的需求就会越大。
 
-7. It is more difficult to write simply, directly, and effectively than to employ
-  flowery but vague expressions that only obscure one’s meaning.
-  7.简明，直接，有力的写作难于花哨，含混而意义模糊的表达。
+7. It is more difficult to write simply, directly, and effectively than to employ flowery but vague expressions that only obscure one’s meaning. 简明，直接，有力的写作难于花哨，含混而意义模糊的表达。
 
-1 / 16 
+8. With modern offices becoming more mechanized, designers are attempting to personalize them with warmer, less severe interiors. 8.随着现代办公室的日益自动化，设计师们正试图利用较为温暖而不太严肃的内部装饰来使 其具有亲切感。 
 
-\8. With modern offices becoming more mechanized, designers are attempting to personalize them with warmer, less severe interiors. 8.随着现代办公室的日益自动化，设计师们正试图利用较为温暖而不太严肃的内部装饰来使 其具有亲切感。 
+9. The difference between libel and slander is that libel is printed while slander is spoken. 诽谤和流言的区别在于前者是书面的，而后者是口头的。
 
-\9. The difference between libel and slander is that libel is printed while slander is spoken.
- 9.诽谤和流言的区别在于前者是书面的，而后者是口头的。
- \10. The knee is the joints where the thigh bone meets the large bone of the lower leg. 
+10. The knee is the joints where the thigh bone meets the large bone of the lower leg. 膝盖是大腿骨和小腿胫的连接处。
 
-10.膝盖是大腿骨和小腿胫的连接处。
+11. Acids are chemical compounds that, in water solution, have a sharp taste, a corrosive action on metals, and the ability to turn certain blue vegetable dyes red. 酸是一种化合物，它在溶于水时具有强烈的气味和对金属的腐蚀性，并且能够使某些蓝色植物染料变红。
 
-11. Acids are chemical compounds that, in water solution, have a sharp taste, a
-corrosive action on metals, and the ability to turn certain blue vegetable dyes
-red.
-11.酸是一种化合物，它在溶于水时具有强烈的气味和对金属的腐蚀性，并且能够使某些蓝
-色植物染料变红。
+12. Billie Holiday’s reputation as a great jazz-blues singer rests on her ability to give emotional depth to her songs. Billie Holiday’s 作为一个爵士布鲁斯乐杰出歌手的名声建立在能够赋予歌曲感情深度的能力。
 
-12. Billie Holiday’s reputation as a great jazz-blues singer rests on her ability to
-give emotional depth to her songs.
-
-12. Billie Holiday’s 作为一个爵士布鲁斯乐杰出歌手的名声建立在能够赋予歌曲感情深度
-的能力。
-
-13. Essentially, a theory is an abstract, symbolic representation of what is
-conceived to be reality.
-13.理论在本质上是对认识了的现实的一种抽象和符号化的表达。
+13. Essentially, a theory is an abstract, symbolic representation of what is conceived to be reality.理论在本质上是对认识了的现实的一种抽象和符号化的表达。
 
 14. Long before children are able to speak or understand a language, they
 communicate through facial expressions and by making noises.

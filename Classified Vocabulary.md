@@ -1,0 +1,86 @@
+**subject/discipline/学科**
+- Anthropology
+- Anthropologist
+- archaeology
+- Archaeologist
+- literature
+- Litterateur
+- Mathematics
+- Mathematician
+- Psychology
+- Psychologist
+- physics
+- Physical scientist
+- Chemistry
+- Chemist
+- Biology
+- Biologist
+- History
+- Historian
+- geography
+- Geographer
+- Politics
+- Politician
+- science
+- Scientist
+- Music
+- Musician
+- painting
+- Painter
+
+**time/时间**
+- January /journal/journey
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
+- Saturday
+- Sunday
+
+- One first 1st
+- Two Second 2nd
+- Three Third 3rd
+- Four Fourth 4 th
+- Five Fifth
+- Six Sixth
+- Seven Seventh
+- Eight Eighth
+- Nine Ninth
+- Ten Tenth
+- Eleven Eleventh
+- Twelve Twelfth
+- Thirteen Thirteenth
+- Fourteen Fourteenth
+- Fifteen Fifteenth
+- Sixteen Sixteenth
+- Seventeen Seventeenth
+- Eighteen Eighteenth
+- Nineteen Nineteenth
+- Twenty Twentieth
+- Twenty-one Twenty-first
+- Twenty-two Twenty-second
+- Twenty-three Twenty-third
+- Twenty-four Twenty-fourth
+- Twenty-five Twenty-fifth
+- Twenty-six Twenty-sixth
+- Twenty-seven Twenty-seventh
+- Twenty-eight Twenty-eighth
+- Twenty-nine Twenty-ninth
+- Thirty Thirtieth
+- hundred
+- thousand
+- Million
+- billion
