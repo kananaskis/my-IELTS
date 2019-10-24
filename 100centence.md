@@ -1,21 +1,13 @@
 7000 雅思词汇用 100 个句子记完! 
 100 套真题中提炼而出的 100 百个经典句子，包涵了 7000 个雅思词汇。
 
-1. Typical of the grassland dwellers of the continent is the American antelope, orpronghorn.美洲羚羊，或称叉角羚，是该大陆典型的草原动物。
-- grassland; meadow; lawn.
-- dweller; resident; inhabitant; occupant;
-- continent/contingent/continue
+1. Typical of the grassland dwellers of the continent is the American antelope, orpronghorn.美洲羚羊，或称叉角羚，是该大陆典型的草原动物。grassland; meadow; lawn. dweller; resident; inhabitant; occupant. continent/contingent/continue
 
-2. Of the millions who saw Haley’s comet in 1986, how many people will live long enough to see it return in the twenty-first century.1986 年看见哈雷慧星的千百万人当中，有多少人能够长寿到足以目睹它在二十一世纪的回归呢?
-- comet/Cosmetics/Comic
+2. Of the millions who saw Haley’s comet in 1986, how many people will live long enough to see it return in the twenty-first century.1986 年看见哈雷慧星的千百万人当中，有多少人能够长寿到足以目睹它在二十一世纪的回归呢? comet/Cosmetics/Comic
 
-3. Anthropologists have discovered that fear, happiness, sadness, and surprise are **universally** reflected in facial expressions.人类学家们已经发现，恐惧，快乐，悲伤和惊奇都会行之于色，这在全人类是共通的。
-- Anthropologist/Archaeologist
-- reflect; reflex; mirror; report
+3. Anthropologists have discovered that fear, happiness, sadness, and surprise are **universally** reflected in facial expressions.人类学家们已经发现，恐惧，快乐，悲伤和惊奇都会行之于色，这在全人类是共通的。Anthropologist/Archaeologist. reflect; reflex; mirror; report
 
-4. Because of its irritating effect on humans, the use of phenol as a general antiseptic has been largely discontinued.由于苯酚对人体带有刺激性作用，它基本上已不再被当作常用的防腐剂了。
-- stimulate; excite; provoke; irritate
-- antibiotic; preservative; antiseptic
+4. Because of its irritating effect on humans, the use of phenol as a general antiseptic has been largely discontinued.由于苯酚对人体带有刺激性作用，它基本上已不再被当作常用的防腐剂了。stimulate; excite; provoke; irritate. antibiotic; preservative; antiseptic
 
 5. In group to remain in existence, a profit-making organization must, in the long run, produce something consumers consider useful or desirable.任何盈利组织若要生存，最终都必须生产出消费者可用或需要的产品。
 
