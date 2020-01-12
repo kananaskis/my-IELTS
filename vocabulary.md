@@ -1,3 +1,26 @@
+- colossal numbers of	大量的
+- bred up 交配繁殖; 饲养，培育; 孕育; 导致; breed的过去分词和过去式
+- a reference to	提及
+- other than	除了
+- varies in	在某些方面参差不齐
+- rice/fish/wheat farm/field	稻田/鱼场/麦田
+- medical care	医疗处理/医疗保健
+- at their end/side	在（由）他们来，在他们这边
+- taken aback	吃惊
+- seem that way to me	在我看来
+- little more than	只不过；仅仅是；和...无差别
+- little more than	只不过; 仅仅是; 和…无差别;
+- unblemished 完好的; 无损的; 无污点的;
+- full-scale 全面的; 完全的; 彻底的; 原尺寸的; 和实物同样大小的;
+- service n. 服务; v. 服务/维修/支付...
+	- serve 为...服务
+- homogenising 均质化
+- marred v. 破坏; 毁坏; 损毁; 损害; 原型mar
+- tremor n. 轻微地震; 小震; 微震; (由于寒冷或恐惧等引起的) 颤抖，战栗，哆嗦;
+- ripple n.波纹;细浪;涟漪;(外观或运动)如波纹的东西;起伏的声音; v. (使)如波浪般起伏;扩散;涌起
+- instant adj.立即的;立刻的;速食的;即食的;速溶的;方便的; n.瞬间;片刻;某一时刻
+	- instance n. 例子; 事例; 实例; 举…为例
+
 - freshman n. (大学)一年级新生;(中学)九年级学生;大学一年级新生
 	- sops = sophomore n. (大学)二年级学生;(高中)二年级学生
 	- junior n. （四年制中学或大学中）三年级生的，三年级的 
@@ -136,7 +159,7 @@
 	- transform v. 转换，变形；改善，使改头换面
 	- transformation n. 转变，民主改革
 	- conform v. 顺从，遵从，随大流，一致
-	- conformation n. 形态，构造，结构，身体结构
+	- conformation n. 形态，构造，结构，身体结构x
 	- perform
 - fruitarian n. 果素者
 	- vegetarian n. 素食者
