@@ -1,3 +1,143 @@
+# C9T2
+- hall/hall of resience （大学）学生宿舍
+- Data of birth 注意读的顺序是dd/mm/yy，只需要写dd/mm 如31 march
+- catering 饮食服务，承办酒席
+	- diet 饮食
+- full board (旅馆的) 全食宿;
+	- half board 半食宿（仅晚餐或午餐）
+	- board n.	板; (尤指) 木板; …用木板(或板材); (公司或其他机构的) 董事会，委员会，理事会; v.	上船(或火车、飞机、公共汽车等); 让乘客登机(或上船等); 付费(在某人家里)膳宿;
+- special diet 特殊饮食,忌口
+- red meat 红肉(指牛肉、羊肉等);
+- single study bedroom 单人简易房
+- single bedsit 单人小套房
+	- bedsit 起居兼卧室两用租间;
+- grant n.	(政府、机构的) 拨款; (尤指正式地或法律上) 同意，准予，允许; (勉强) 承认，同意;
+	- take for granted 认为…是理所当然的; （因视作理所当然而）不把…当回事，对…不予重视（或不知感激） ;
+- take into account/consideration 考虑在内
+- and so forth 及诸如此类; 等等;
+
+
+# C8T4
+- attainment n. 造诣，成就，获得
+- variation n. 浮动，变化
+- gross adj. 总共的；n. 总额，总数
+	- gross national product 国民生产总值
+	- GDP 国内生产总值 gross domestic product
+- set back 使延迟，使花费
+	- set back from 使远离
+- spacious inside 内部宽敞
+- let off steam 放出蒸汽，宣泄...
+- mutual 共同的，互相的
+	- mutual bowing 相互鞠躬
+- unstreamed adj. 不按能力高低分班的
+- make sth. do do相对主语是主动
+	- make sth. done done相对于主语是被动
+# C8T3
+- 
+- backed 有背的，有财力支持的
+- bear up 支撑，承受，打起精神
+- votage 电压
+- armoury 兵工厂，军械库
+- neutralising 使中和，使失效 neutralise
+- hit back 	回击，反击
+- Lightning 闪电 = lightning bolt
+	- lighten 发光；减轻；放松
+	- lighting 点亮，照明
+- inviting 吸引人的，诱人的
+- dice 骰子
+- a leisurely round of golf 一轮休闲的高尔夫
+- inflict 使遭受
+- fury 狂怒，暴怒
+- strike 罢工；打；侵袭；来袭
+- take care of young	
+	- look after young
+- mark a trail to food	
+	- locate food
+- the effect that light had on them
+	- responded to light
+- regions where neurons come together
+	- areas in which neurons meet
+- coincides with aging	
+	- associated with ageing
+- stay fit for nearly their entire lives	
+	- remain active for almost their whole lives
+- thoroughly
+	- precise
+- expected
+	- predicted
+- extinct
+	- die out
+- undertake research on animals in zoos
+	- study animals in captivity
+- by	
+	- subjected to
+- do concur on
+	- agree on
+- sceptics and advocates	
+	- people with differing attitudes
+- suspect	
+	- indicated
+- pull out	
+	- stop participating
+- infested with mites	
+	- carry parasites
+- export to other countries
+	- sold to customers abroad
+- only	
+	- as long as
+- find	
+	- look for
+- much more	
+	- more
+- temporarily out of bounds to the public	
+	- closed to  the public a short time
+- maintain the diversity of breeds	keep a variety of breeds
+- preserve rare animals	
+	- save unusual animals
+- wipe out	
+	- die out
+- excellent quality	
+	- variety in quality (anti)
+- be yet to 还没有...; 尚未...
+- olfaction 嗅觉
+- odour (尤指难闻的)气味;臭味
+- to date 迄今;到目前为止
+- emotionally charged 充满感情的
+- intimate 亲密的;密切的;个人隐私的(常指性方面的);宜于密切关系的;温馨的;便于有性关系的 v.透露;(间接)表示;暗示 n.密友;至交;知己
+- be invested with 把…授予
+- interpretation n. 理解;解释;说明;演绎;演奏方式;表演方式
+- complex and still little understood interactions 复杂但仍鲜为人知的相互作用
+- unprecedented 前所未有的，无先例的
+- the price of ...  ...的价格/代价x
+- pre-industrial 未工业化的
+- famine 饥荒
+- stock-raising 畜牧业;养殖畜牧业
+	- stock (商店的)现货，存货，库存;储备物;备用物;供应物;股本;资本
+- adapt v.使适应，使适合(新用途、新情况);适应(新情况);改编;改写
+	- adopt v.收养;领养;采用(某方法);采取(某态度);正式通过，表决采纳(建议、政策等) 
+- unaccustomed adj.不习惯;不适应;反常的;不一般的;不熟悉的
+	- accustomed
+	- customer 顾客;主顾;客户
+- glacial episode(s) 冰期 
+- drought cycle(s) 干旱周期
+- universal but irregular 普遍但不规则
+- at the mercy of sth. 完全由…支配; 任由…摆布;
+- humanity (统称) 人; 人类; 人性; 人道; 仁慈;
+	- 用作 人/人类 时与human同义
+- historical context 历史背景
+- embark on 着手，开始做某事
+- climatic shift(s) / climate change 气候变化
+- detailed examination 详尽的考查
+- Switzerland 瑞士 Swiss 瑞士的
+	- Sweden 瑞典 Swedish 瑞典的
+- glacier 冰川
+- at the last 直到最后
+	- at last 最后
+- growing 增加的; 增长的;
+	- increasing
+- relevance n.	重要性; 意义; 相关性;
+- dessert n. 甜点
+	- desert n. 沙漠; 荒漠; v. 抛弃; 擅离(部队); 逃走; 开小差;
 - colossal numbers of	大量的
 - bred up 交配繁殖; 饲养，培育; 孕育; 导致; breed的过去分词和过去式
 - a reference to	提及
