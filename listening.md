@@ -1,0 +1,61 @@
+# C9T1
+- job vacant 工作空缺
+- the advert for job 招聘广告
+- interfere with 影响，打扰
+- first year physics student 物理系一年级学生
+- work permit 工作许可
+- hostel food 招待所的食物
+- extra pay 额外薪水
+- **national holidays 国家法定假日**
+- fringe n.	额前短垂发; 刘海儿; (某物的) 穗，缘饰，流苏; (沿…边缘的)一排(树木、房屋等) ; v. 形成…的边缘;
+	- good fringe benefits 附加福利
+- good perk 很好的额外收入，额外待遇
+- the ultimate in sports retailing 体育零售业的旗舰店
+- new minimalist look 全新的极简主义外观
+- signature colours 标志性的颜色
+- a huge range of 各种各样
+- in stock 有货
+- be devoted to 致力于
+- sign autographs 亲笔签名
+	- autograph n.	(名人的) 亲笔签名; v.	(在…上) 签名;
+- go along 参加（活动）; 出席（会议）; 造访（某地）; 进展;
+	- come along 尤用于鼓励别人参加某活动） 来吧，一起来; 加把劲儿; 赶快; （偶然地） 发生，来到; 进展; 进步;
+- whole range of special attractions 大量吸引人的特色项目
+	- attraction (尤指两性间的) 爱慕，吸引; 向往的地方; 有吸引力的事; 有吸引力的特征(或品质、人);
+- entrants 参与者们
+- fixture n. (定期定点举行的) 体育活动，体育节; 固定设施(如房屋内安装的浴缸或抽水马桶);
+- fitness test 健康测试
+- cardiac fitness 心脏健康
+- muscle tone 肌肉结实度; 肌张力;
+- qualified staff 合格的员工
+- first semester exam 第一学期考试
+- have proved to 已经证实
+- be valuable to 对...有用
+- what to expect 发生什么
+- practised timing 练习把握时间节奏
+- in relation to 与...相比
+- be streesed to 对...很重要
+- seminar presentation 研讨会演讲
+- speeding reading 快速阅读
+- Keep a record of 记录
+- timely  adj.	及时的; 适时的;
+- strand 使滞留; 使搁浅; n. (线、绳、金属线、毛发等的) 股，缕; (观点、计划、故事等的) 部分，方面; (海洋、湖或河的) 岸，滨;
+- ashore 向(或在)岸上; 向(或在)陆地;
+	- off shore 离岸的;
+- frequent accurence 频繁发生的事
+- be infested with 感染
+	- infect 传染
+- humpback n.	座头鲸;
+- saxitoxin n. 石房蛤毒素；蛤蚌毒素；巨蚌毒素;
+- chase v. 追赶; 追逐; 追捕; 努力获得; 争取得到; 追求; 求爱;
+- squid 枪乌贼; 鱿鱼;
+- hold ture 同样适用; 在…情况下亦然;
+	- hold ture for some cases
+- pinpoint v. 明确指出，确定(位置或时间); 准确解释(或说明); adj. 准确的; 精确的; n. 极小的范围; 光点;
+- coincided n. 同时发生; 相同; 相符; 极为类似; 相接; 相交; 同位; 位置重合; 重叠;
+
+ 
+#C9T2
+- catering n.	(会议或社交活动的) 饮食服务，酒席承办;
+- bedsit n. 起居兼卧室两用租间;
+- 

@@ -1,3 +1,5 @@
+- rhyme 韵，调
+	- lyric 歌词
 # C9T2
 - hall/hall of resience （大学）学生宿舍
 - Data of birth 注意读的顺序是dd/mm/yy，只需要写dd/mm 如31 march
@@ -32,6 +34,7 @@
 - unstreamed adj. 不按能力高低分班的
 - make sth. do do相对主语是主动
 	- make sth. done done相对于主语是被动
+
 # C8T3
 - 
 - backed 有背的，有财力支持的
@@ -49,6 +52,12 @@
 - inflict 使遭受
 - fury 狂怒，暴怒
 - strike 罢工；打；侵袭；来袭
+
+# C8T1
+- chronicle n.	编年史; 历史; v.	把…载入编年史; 按事件发生顺序记载;
+- waxing and waning 消长变化; 盈亏; 月圆月缺; 诸如月之盈虚;
+
+
 - take care of young	
 	- look after young
 - mark a trail to food	
