@@ -1,3 +1,49 @@
+#C9T2
+- hall/hall of resience （大学）学生宿舍
+- Data of birth 注意读的顺序是dd/mm/yy，只需要写dd/mm 如31 march
+- catering 饮食服务，承办酒席
+	- diet 饮食
+- full board (旅馆的) 全食宿;
+	- half board 半食宿（仅晚餐或午餐）
+	- board n.	板; (尤指) 木板; …用木板(或板材); (公司或其他机构的) 董事会，委员会，理事会; v.	上船(或火车、飞机、公共汽车等); 让乘客登机(或上船等); 付费(在某人家里)膳宿;
+- special diet 特殊饮食,忌口
+- red meat 红肉(指牛肉、羊肉等);
+- single study bedroom 单人简易房
+- single bedsit 单人小套房
+	- bedsit 起居兼卧室两用租间;
+- grant n.	(政府、机构的) 拨款; (尤指正式地或法律上) 同意，准予，允许; (勉强) 承认，同意;
+	- take for granted 认为…是理所当然的; （因视作理所当然而）不把…当回事，对…不予重视（或不知感激） ;
+- take into account/consideration 考虑在内
+- and so forth 及诸如此类; 等等;
+- generous 	adj. 慷慨的; 大方的; 慷慨给予的; 丰富的; 充足的; 大的; 宽厚的; 宽宏大量的; 仁慈的;
+- availability n.	可利用；可用性；有用（效）性；使用价值；（有效）利用率；工作效率;
+- on record 有记录的; 有记载的; 记录下来; 记录在案;
+	- keep on record
+- **variety n.	(同一事物的) 不同种类，多种式样; 变化; 多样化; 多变性; (植物、语言等的) 变种，变体; 异体; 品种;**
+- be noted for 因…而闻名;
+- great range of trees = many different trees
+- illustrated talk 插图演讲
+- litter little letter
+- plant hedges 种树篱
+- self-access center 自习室
+	- access assess
+- **variation 变化**
+- classroom routine 课堂常规
+- incorporate v.	将…包括在内; 包含; 吸收; 使并入; 注册成立;
+- keep the existing set-up 保持现状
+- timetable n.	时间表; 时刻表; 预定计划; 时间安排; v 为…安排时间;
+- cramped  adj.	狭窄的; 狭小的; 拥挤的; 缺少自由活动空间的; 密小难认的; 密密麻麻的; v.阻碍，阻止(发展或进步);
+- current adj.	现时发生的; 当前的; 现在的; 通用的; 流通的; 流行的;n. (海洋或江河的) 水流; 气流; 电流; 思潮; 潮流; 趋向;
+- laminate n.	薄片制成的材料; 层压(或粘合)材料;
+- on the one hand
+	- on the other hand
+- job securuty 工作稳定; 职业安全; 职业保障; 工作安全性; 就业保障;
+- overhead adv.	在头上方; 在空中; adj.	头上方的; 地面以上的; 高架的; 经费的; 管理费用的; **n. 经常费用; 经常开支; 用于高射投影器的幻灯片; （尤指飞机的） 顶舱;**
+- in relation to
+- technical expertise 专业技术
+- project oriented
+- delegated v.	授(权); 把(工作、权力等)委托(给下级); 选派(某人做某事);
+
 # C9T1
 - job vacant 工作空缺
 - the advert for job 招聘广告
@@ -55,7 +101,4 @@
 - coincided n. 同时发生; 相同; 相符; 极为类似; 相接; 相交; 同位; 位置重合; 重叠;
 
  
-#C9T2
-- catering n.	(会议或社交活动的) 饮食服务，酒席承办;
-- bedsit n. 起居兼卧室两用租间;
-- 
+
