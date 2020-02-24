@@ -1,22 +1,7 @@
 - rhyme 韵，调
 	- lyric 歌词
 # C9T2
-- hall/hall of resience （大学）学生宿舍
-- Data of birth 注意读的顺序是dd/mm/yy，只需要写dd/mm 如31 march
-- catering 饮食服务，承办酒席
-	- diet 饮食
-- full board (旅馆的) 全食宿;
-	- half board 半食宿（仅晚餐或午餐）
-	- board n.	板; (尤指) 木板; …用木板(或板材); (公司或其他机构的) 董事会，委员会，理事会; v.	上船(或火车、飞机、公共汽车等); 让乘客登机(或上船等); 付费(在某人家里)膳宿;
-- special diet 特殊饮食,忌口
-- red meat 红肉(指牛肉、羊肉等);
-- single study bedroom 单人简易房
-- single bedsit 单人小套房
-	- bedsit 起居兼卧室两用租间;
-- grant n.	(政府、机构的) 拨款; (尤指正式地或法律上) 同意，准予，允许; (勉强) 承认，同意;
-	- take for granted 认为…是理所当然的; （因视作理所当然而）不把…当回事，对…不予重视（或不知感激） ;
-- take into account/consideration 考虑在内
-- and so forth 及诸如此类; 等等;
+
 
 
 # C8T4
