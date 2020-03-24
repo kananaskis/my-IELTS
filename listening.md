@@ -1,4 +1,30 @@
-#C9T2
+# C9T3
+- overlook 忽略; 未注意到; (对不良现象等) 不予理会，视而不见; **俯视; 眺望;**
+- sunshade 遮阳伞; 遮阳篷; (尤指加在普通眼镜上的) 太阳镜，墨镜;
+	- sunshine 阳光; 日光; 欢乐; 幸福; (友好地称呼某人，有时显得不礼貌) 朋友，老兄;
+- relative **n. 亲戚; 亲属; 同类事物;** adj. 相比较而言的; 比较的; 相对的; 相关联的; 相比之下存在(或有)的;
+	- relevant 紧密相关的; 切题的; 有价值的; 有意义的;
+ 	- related adj.	相关的; 有联系的; 属同一家族的; 有亲属关系的; 属于同一种类的; 同一组别的; v. 联系; 使有联系; 把…联系起来; 叙述; 讲述; 讲(故事);
+- terrace n. (相同的一排) 排房，排屋; **(尤指房屋或餐馆外的) 露天平台，阳台; (足球场的) 阶梯看台;** v. 使成阶地（或梯田）;
+	- balcony n. 阳台; (剧院的) 楼厅，楼座;
+	- terrace 一般指比较大的平台和阳台
+- jot v. 匆忙记下; 略记; 摘要记载下来; n. 一点(不); 丝毫(不);
+	- jot down 草草记下，匆匆写下（地址等）;
+- attraction n. (尤指两性间的) 爱慕，吸引; 向往的地方; 有吸引力的事; 有吸引力的特征(或品质、人);
+	- tourist attraction 旅游胜地; 吸引游客的事物;
+	- tourist interest 名胜古迹
+- on your list 
+- reasonable adj. 公平的; 合理的; 有理由的; 明智的; 可以接受的; 合乎情理的; 公道的; 不太贵的;
+- either
+	- neither
+- round
+	- around
+- mountainside n. 山坡
+- down the road 
+
+
+# C9T2
+
 - hall/hall of resience （大学）学生宿舍
 - Data of birth 注意读的顺序是dd/mm/yy，只需要写dd/mm 如31 march
 - catering 饮食服务，承办酒席

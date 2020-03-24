@@ -1,7 +1,17 @@
 - rhyme 韵，调
 	- lyric 歌词
 # C9T2
-
+- national (policy initiative 一个国家) adj. 国家的; 民族的; 全国的; 国有的; 国立的; 国营的; n (某国的) 公民;
+	- global (team 不涉及具体国家) adj.	全球的; 全世界的; 整体的; 全面的; 总括的;
+		- international adj.	国际的; n.	国际体育比赛; 国际体育比赛选手; 外国人;
+	- worldwide (regulations 多个国家) adj.	影响全世界的; 世界各地的; adv. 遍及全球地;
+- medical conditions 医疗条件; **身体状况**; 医学状况; 疾病; 医学条件;
+- estimate
+	- establish
+- proportion n. 部分; 份额; 比例; 倍数关系; 正确的比例; 均衡; 匀称;
+- auditory **adj. 听的; 听觉的**; n.	听众; 礼堂;
+- autism n. 自闭症; 孤独症;
+- 
 
 
 # C8T4
