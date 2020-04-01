@@ -1,3 +1,44 @@
+# C9T4
+- vaccinations 注射疫苗；接种疫苗；种痘； 牛痘疤;
+- acupunture 针刺疗法;
+- homeopathy 顺势疗法;
+- pilot n.	飞行员; (飞行器) 驾驶员; 领航员; 引水员; 领港员; (电视的) 试播节目; v. 驾驶(飞行器); 领航(船只); 引导; 使通过(尤指复杂的地方或系统); 试点; 试行; **adj. 试验性的; 试点的;**
+	- pilot scheme 试验方案
+- stress n.	精神压力; 心理负担; 紧张; 压力; 应力; 强调; 重要性; v. **强调; 着重; 重读;** 用重音读; (使) 焦虑不安，疲惫不堪;
+- asthma 气喘; 哮喘;
+- radiator n. 散热器; 暖气片; (车辆或飞机发动机的) 冷却器，水箱;
+- knob n.	(用以开关电视机等的) 旋钮; (门或抽屉的) 球形把手; 疙瘩; 节; v. 鼓起; 使有球形突出物; 给（门等）装球形把手;
+- in cpuboard on landing
+- sink  v.	下沉; 下陷; 沉没; 使下沉; 使沉没; 倒下; 坐下; n. (厨房里的) 洗涤池，洗碗槽; adj. 位于社会条件差的贫穷地区的; 贫民窟的;
+- living room, sitting room 都是客厅、起居室的意思,区别在于: 前一个美国人常用,后一个英国人常用。
+- pasta 意大利面食;
+- by back door
+- enroll 吸收（成员），加入，入册把…归入某一类档案，写下，录下，登记，注册，编入，服役，清单，入会，报告;
+- pharmacy 药房; 药店; 医药柜台; (医院的) 药房，配药室; 药剂学; 制药学;
+- mature v. 成熟；长成；（情感和认识）成熟；有判断力 adj.明白事理的；成熟的；像成人似的；发育完全的
+- assertive 坚定自信的; 坚决主张的;
+- dispensary (医院、商店等的) 药房，配药处; (尤指慈善机构的) 医务室，诊所;
+- on top of all that 一般可以表示不好的事情的继续罗列，等同于And also.
+- familiarity 熟悉; 通晓; 认识; 友好随和; 亲近;
+- interim  adj.	暂时的; 过渡的; 期中的; n.	间歇，过渡期间;
+- prey n.	猎物; 受害者; 受骗者; v.	捕食; 掠夺; 折磨;
+- sparrow 麻雀
+- hawk n.	鹰; 隼; 鹰派分子; 主战分子; v.	沿街叫卖; 咳痰;
+- inhabit  居住在; 栖居于;
+- endorsed v. (公开) 赞同，支持，认可; (在广告中)宣传，代言(某一产品) ; (在支票背面) 签名，背书;
+- tick v.	发出滴答声; 滴答地走时; 标记号; 打上钩; 打对号; n. 核对号; 对号; 钩号; 记号; 蜱，壁虱，扁虱(吸血寄生虫，有些种类传播疾病); (尤指钟表的) 滴答声;
+- deliberately 故意; 蓄意; 存心; 不慌不忙地; 小心翼翼地; 从容不迫地;
+- as a whole 整体而言; 总体上;
+- frog 蛙; 青蛙; 法国佬(对法国人的蔑称);
+- proliferate 迅速繁殖(或增殖); 猛增;
+- seed n.	种子; 籽; 起源; 起因; 萌芽; 开端; 种子选手; v. 结籽; (种子) 繁殖; 在…播种;
+- resurgence 复苏; 复兴;
+- provision n.	提供; 供给; 给养; 供应品; (为将来做的) 准备; 饮食供应; (尤指旅途中的) 粮食; v. 为…提供所需物品(尤指食物);
+
+
+
+
+
 # C9T3
 - overlook 忽略; 未注意到; (对不良现象等) 不予理会，视而不见; **俯视; 眺望;**
 - sunshade 遮阳伞; 遮阳篷; (尤指加在普通眼镜上的) 太阳镜，墨镜;
@@ -21,6 +62,37 @@
 	- around
 - mountainside n. 山坡
 - down the road 
+- enormous adj. 巨大的; 庞大的; 极大的;
+- miniature adj.	很小的; 微型的; 小型的; n.	微型画; 小画像; 缩微模型; 微型复制品;
+- locomotive n.	机车; 火车头; adj.	移动的; 运动的;
+- onto a winner
+- through our door
+- squadron n.	(空军或海军的) 中队;
+	- a squadron of	 一中队...
+- stalwart n.	(政党等组织的) 忠诚拥护者，坚定分子; adj. 忠诚的; 忠实的; 健壮的; 强壮的;
+- take over 接收，接管（公司）; （武力） 占领，接管，控制; 接替; 接任; 接手; 取代; 代替; 占上风;
+- tunnel n.	地下通道; 地道; 隧道; (动物的) 洞穴通道; v. 开凿隧道; 挖地道;
+- mound 土墩; 小丘; 小山岗; 一堆; 许多; 大量;
+- kart 小型赛车; 卡丁赛车;
+- Formula 公式; 方程式; 计算式; 分子式; 方案; 方法;
+	- 世界一级方程式锦标赛（FIA Formula 1 World Championship）
+- peer-group discussion 同龄人小组讨论
+- dissertation n. 专题论文; 学位论文;
+	- Thesis, essay, paper
+- take discipline
+- discipline myself
+- contemporary adj.	属同时期的; 同一时代的; 当代的; 现代的; n. 同代人; 同辈人; 同龄人;
+- closely involved 密切关注/参与
+- blot v.	(用软纸或布) 吸干液体; 把墨水溅到(纸上); n. 污点; 墨渍; 有损形象(或幸福)的事情;
+- storey n. 楼层; 有…层的;
+- photovoltaic 光电池的;
+- maximise v. 使（某事物）增至最大限度； 最大限度地利用（某事物）;
+- surplus n.	过剩; 剩余; 过剩量; 剩余额; 盈余; 顺差; adj. 过剩的; 剩余的; 多余的;
+- national grid 国家电网
+- reclaimed wood 再生木材;
+- reed 芦苇; 簧舌，簧片(金属或塑料制成，用于双簧管、单簧管等吹奏乐器);
+- 
+ 
 
 
 # C9T2
